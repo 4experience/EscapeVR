@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 7f13a4f0d834afd419820803f34f2f2a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: rama
+    100004: rama.001
+    100006: rama.002
+    100008: rama.003
+    100010: rama.004
+    100012: rama.005
+    100014: rama.006
+    100016: rama.007
+    100018: rama.009
+    100020: rama.010
+    100022: rama.011
+    100024: rama.012
+    100026: szklarnia - klocek
+    100028: szklarnia - klocek.001
+    100030: szklarnia - klocek.002
+    100032: szklarnia - klocek.003
+    100034: szklarnia - klocek.004
+    100036: szklarnia - klocek.005
+    100038: szklarnia - klocek.006
+    100040: szklarnia - klocek.007
+    100042: szyba
+    100044: szyba.001
+    100046: szyba.002
+    400000: //RootNode
+    400002: rama
+    400004: rama.001
+    400006: rama.002
+    400008: rama.003
+    400010: rama.004
+    400012: rama.005
+    400014: rama.006
+    400016: rama.007
+    400018: rama.009
+    400020: rama.010
+    400022: rama.011
+    400024: rama.012
+    400026: szklarnia - klocek
+    400028: szklarnia - klocek.001
+    400030: szklarnia - klocek.002
+    400032: szklarnia - klocek.003
+    400034: szklarnia - klocek.004
+    400036: szklarnia - klocek.005
+    400038: szklarnia - klocek.006
+    400040: szklarnia - klocek.007
+    400042: szyba
+    400044: szyba.001
+    400046: szyba.002
+    2300000: rama
+    2300002: rama.001
+    2300004: rama.002
+    2300006: rama.003
+    2300008: rama.004
+    2300010: rama.005
+    2300012: rama.006
+    2300014: rama.007
+    2300016: rama.009
+    2300018: rama.010
+    2300020: rama.011
+    2300022: rama.012
+    2300024: szklarnia - klocek
+    2300026: szklarnia - klocek.001
+    2300028: szklarnia - klocek.002
+    2300030: szklarnia - klocek.003
+    2300032: szklarnia - klocek.004
+    2300034: szklarnia - klocek.005
+    2300036: szklarnia - klocek.006
+    2300038: szklarnia - klocek.007
+    2300040: szyba
+    2300042: szyba.001
+    2300044: szyba.002
+    3300000: rama
+    3300002: rama.001
+    3300004: rama.002
+    3300006: rama.003
+    3300008: rama.004
+    3300010: rama.005
+    3300012: rama.006
+    3300014: rama.007
+    3300016: rama.009
+    3300018: rama.010
+    3300020: rama.011
+    3300022: rama.012
+    3300024: szklarnia - klocek
+    3300026: szklarnia - klocek.001
+    3300028: szklarnia - klocek.002
+    3300030: szklarnia - klocek.003
+    3300032: szklarnia - klocek.004
+    3300034: szklarnia - klocek.005
+    3300036: szklarnia - klocek.006
+    3300038: szklarnia - klocek.007
+    3300040: szyba
+    3300042: szyba.001
+    3300044: szyba.002
+    4300000: rama.012
+    4300002: szklarnia - klocek
+    4300004: szklarnia - klocek.001
+    4300006: szklarnia - klocek.002
+    4300008: szklarnia - klocek.003
+    4300010: szklarnia - klocek.004
+    4300012: szklarnia - klocek.005
+    4300014: szklarnia - klocek.006
+    4300016: szklarnia - klocek.007
+    4300018: rama.011
+    4300020: rama.010
+    4300022: rama.009
+    4300024: rama.007
+    4300026: rama.006
+    4300028: rama.005
+    4300030: rama.004
+    4300032: rama.003
+    4300034: rama.002
+    4300036: rama.001
+    4300038: rama
+    4300040: szyba.001
+    4300042: szyba
+    4300044: szyba.002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

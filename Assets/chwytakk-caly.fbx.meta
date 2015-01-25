@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 2723021c2870ffb4eb44af1c4b675ae7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hak - glowica
+    100004: hak - ring 1
+    100006: hak ring 2
+    100008: mocowanie
+    100010: mocowanie.001
+    100012: mocowanie.002
+    100014: mocowanie.003
+    100016: mocowanie.004
+    100018: mocowanie.005
+    100020: palec 1
+    100022: palec 2
+    100024: palec 3
+    100026: palec 3.001
+    100028: szpilka 1
+    100030: szpilka 2
+    100032: szpilka 3
+    100034: wysiegnik
+    400000: //RootNode
+    400002: hak - glowica
+    400004: hak - ring 1
+    400006: hak ring 2
+    400008: mocowanie
+    400010: mocowanie.001
+    400012: mocowanie.002
+    400014: mocowanie.003
+    400016: mocowanie.004
+    400018: mocowanie.005
+    400020: palec 1
+    400022: palec 2
+    400024: palec 3
+    400026: palec 3.001
+    400028: szpilka 1
+    400030: szpilka 2
+    400032: szpilka 3
+    400034: wysiegnik
+    2300000: hak - glowica
+    2300002: hak - ring 1
+    2300004: hak ring 2
+    2300006: mocowanie
+    2300008: mocowanie.001
+    2300010: mocowanie.002
+    2300012: mocowanie.003
+    2300014: mocowanie.004
+    2300016: mocowanie.005
+    2300018: palec 1
+    2300020: palec 2
+    2300022: palec 3
+    2300024: palec 3.001
+    2300026: szpilka 1
+    2300028: szpilka 2
+    2300030: szpilka 3
+    2300032: wysiegnik
+    3300000: hak - glowica
+    3300002: hak - ring 1
+    3300004: hak ring 2
+    3300006: mocowanie
+    3300008: mocowanie.001
+    3300010: mocowanie.002
+    3300012: mocowanie.003
+    3300014: mocowanie.004
+    3300016: mocowanie.005
+    3300018: palec 1
+    3300020: palec 2
+    3300022: palec 3
+    3300024: palec 3.001
+    3300026: szpilka 1
+    3300028: szpilka 2
+    3300030: szpilka 3
+    3300032: wysiegnik
+    4300000: mocowanie.005
+    4300002: hak - glowica
+    4300004: szpilka 3
+    4300006: hak ring 2
+    4300008: wysiegnik
+    4300010: palec 3
+    4300012: palec 3.001
+    4300014: palec 2
+    4300016: palec 1
+    4300018: hak - ring 1
+    4300020: szpilka 2
+    4300022: szpilka 1
+    4300024: mocowanie.004
+    4300026: mocowanie.003
+    4300028: mocowanie.002
+    4300030: mocowanie.001
+    4300032: mocowanie
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
